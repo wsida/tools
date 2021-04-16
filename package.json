@@ -1,5 +1,5 @@
 {
-  "name": "tools",
+  "name": "@wsida/ctools",
   "version": "1.0.0",
   "description": "a javascript function tools from wsida",
   "main": "index.js",
